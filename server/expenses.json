@@ -1,0 +1,67 @@
+{
+  "expenses": [
+    {
+      "expenseDescription": "Internet Expenses",
+      "payeeName": "Praveen",
+      "price": 1100,
+      "date": "2024-06-25T00:00:00.000Z",
+      "id": "1"
+    },
+    {
+      "expenseDescription": "Bike Maintainence Expenses",
+      "payeeName": "Rahul",
+      "price": 3500,
+      "date": "2024-06-25T00:00:00.000Z",
+      "id": "2"
+    },
+    {
+      "expenseDescription": "Electricity Bill - Nov Month",
+      "payeeName": "Praveen",
+      "price": 2200,
+      "date": "2024-06-25T00:00:00.000Z",
+      "id": "3"
+    },
+    {
+      "expenseDescription": "Dinner Expenses - Friday Night",
+      "payeeName": "Rahul",
+      "price": 1750,
+      "date": "2024-06-25T00:00:00.000Z",
+      "id": "4"
+    },
+    {
+      "expenseDescription": "Saturday - Movie Night",
+      "payeeName": "Praveen",
+      "price": 920,
+      "date": "2024-06-25T00:00:00.000Z",
+      "id": "5"
+    },
+    {
+      "id": "f5b3",
+      "expenseDescription": "hotel expense",
+      "payeeName": "Praveen",
+      "price": 750,
+      "date": "2024-06-25T00:00:00.000Z"
+    },
+    {
+      "id": "7fc7",
+      "expenseDescription": "trip to france",
+      "payeeName": "Praveen",
+      "price": 5000,
+      "date": "2024-06-25T00:00:00.000Z"
+    },
+    {
+      "id": "acd5",
+      "expenseDescription": "Rice",
+      "payeeName": "Praveen",
+      "price": 80,
+      "date": "2024-06-25T00:00:00.000Z"
+    },
+    {
+      "id": "e5d9",
+      "expenseDescription": "Miscellaneous",
+      "payeeName": "Praveen",
+      "price": 2500,
+      "date": "2024-06-25T00:00:00.000Z"
+    }
+  ]
+}
